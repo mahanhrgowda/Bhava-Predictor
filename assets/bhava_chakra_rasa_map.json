@@ -1,0 +1,178 @@
+[
+  {
+    "bhava": "Śāntiḥ",
+    "chakra": "Sahasrāra",
+    "chakra_emoji": "👑",
+    "rasa": "Śānta",
+    "rasa_emoji": "🕊",
+    "meaning": "Peace, stillness"
+  },
+  {
+    "bhava": "Ānandaḥ",
+    "chakra": "Sahasrāra",
+    "chakra_emoji": "👑",
+    "rasa": "Śṛṅgāra",
+    "rasa_emoji": "💗",
+    "meaning": "Bliss, joy"
+  },
+  {
+    "bhava": "Bhaktiḥ",
+    "chakra": "Ājñā",
+    "chakra_emoji": "👁",
+    "rasa": "Śṛṅgāra",
+    "rasa_emoji": "💓",
+    "meaning": "Devotion, surrender"
+  },
+  {
+    "bhava": "Jñānam",
+    "chakra": "Ājñā",
+    "chakra_emoji": "👁",
+    "rasa": "Adbhuta",
+    "rasa_emoji": "🌌",
+    "meaning": "Wisdom, knowledge"
+  },
+  {
+    "bhava": "Karunā",
+    "chakra": "Viśuddha",
+    "chakra_emoji": "🔵",
+    "rasa": "Karuṇā",
+    "rasa_emoji": "💙",
+    "meaning": "Compassion, mercy"
+  },
+  {
+    "bhava": "Āstikyam",
+    "chakra": "Viśuddha",
+    "chakra_emoji": "🔵",
+    "rasa": "Śānta",
+    "rasa_emoji": "🕊",
+    "meaning": "Faith, reverence"
+  },
+  {
+    "bhava": "Vīryam",
+    "chakra": "Maṇipūra",
+    "chakra_emoji": "🔥",
+    "rasa": "Vīra",
+    "rasa_emoji": "⚔️",
+    "meaning": "Strength, courage"
+  },
+  {
+    "bhava": "Utsāhaḥ",
+    "chakra": "Maṇipūra",
+    "chakra_emoji": "🔥",
+    "rasa": "Vīra",
+    "rasa_emoji": "⚔️",
+    "meaning": "Enthusiasm, drive"
+  },
+  {
+    "bhava": "Rāgaḥ",
+    "chakra": "Anāhata",
+    "chakra_emoji": "💚",
+    "rasa": "Śṛṅgāra",
+    "rasa_emoji": "💘",
+    "meaning": "Love, attraction"
+  },
+  {
+    "bhava": "Dainyaḥ",
+    "chakra": "Anāhata",
+    "chakra_emoji": "💚",
+    "rasa": "Karuṇā",
+    "rasa_emoji": "😢",
+    "meaning": "Humility, surrender"
+  },
+  {
+    "bhava": "Harṣaḥ",
+    "chakra": "Svādhiṣṭhāna",
+    "chakra_emoji": "🧡",
+    "rasa": "Hāsya",
+    "rasa_emoji": "😂",
+    "meaning": "Joy, excitement"
+  },
+  {
+    "bhava": "Īrṣyā",
+    "chakra": "Svādhiṣṭhāna",
+    "chakra_emoji": "🧡",
+    "rasa": "Bībhatsa",
+    "rasa_emoji": "😠",
+    "meaning": "Jealousy, resentment"
+  },
+  {
+    "bhava": "Krodhaḥ",
+    "chakra": "Mūlādhāra",
+    "chakra_emoji": "🔴",
+    "rasa": "Raudra",
+    "rasa_emoji": "🔥",
+    "meaning": "Anger, wrath"
+  },
+  {
+    "bhava": "Bhayam",
+    "chakra": "Mūlādhāra",
+    "chakra_emoji": "🔴",
+    "rasa": "Bhayānaka",
+    "rasa_emoji": "😱",
+    "meaning": "Fear, insecurity"
+  },
+  {
+    "bhava": "Vairāgyam",
+    "chakra": "Sahasrāra",
+    "chakra_emoji": "👑",
+    "rasa": "Śānta",
+    "rasa_emoji": "🕊",
+    "meaning": "Detachment, renunciation"
+  },
+  {
+    "bhava": "Mādhuryam",
+    "chakra": "Anāhata",
+    "chakra_emoji": "💚",
+    "rasa": "Śṛṅgāra",
+    "rasa_emoji": "💞",
+    "meaning": "Sweetness, grace"
+  },
+  {
+    "bhava": "Dhṛtiḥ",
+    "chakra": "Maṇipūra",
+    "chakra_emoji": "🔥",
+    "rasa": "Vīra",
+    "rasa_emoji": "⚔️",
+    "meaning": "Determination, resolve"
+  },
+  {
+    "bhava": "Nirvedaḥ",
+    "chakra": "Ājñā",
+    "chakra_emoji": "👁",
+    "rasa": "Karuṇā",
+    "rasa_emoji": "😌",
+    "meaning": "Dispassion, transcendence"
+  },
+  {
+    "bhava": "Ākrośaḥ",
+    "chakra": "Mūlādhāra",
+    "chakra_emoji": "🔴",
+    "rasa": "Raudra",
+    "rasa_emoji": "🔥",
+    "meaning": "Outburst, outrage"
+  },
+  {
+    "bhava": "Āścaryaṁ",
+    "chakra": "Ājñā",
+    "chakra_emoji": "👁",
+    "rasa": "Adbhuta",
+    "rasa_emoji": "🌠",
+    "meaning": "Wonder, awe"
+  },
+  {
+    "bhava": "Mohaḥ",
+    "chakra": "Svādhiṣṭhāna",
+    "chakra_emoji": "🧡",
+    "rasa": "Bhayānaka",
+    "rasa_emoji": "😵",
+    "meaning": "Delusion, confusion"
+  },
+  {
+    "bhava": "Lajjā",
+    "chakra": "Viśuddha",
+    "chakra_emoji": "🔵",
+    "rasa": "Bībhatsa",
+    "rasa_emoji": "🙈",
+    "meaning": "Shame, modesty"
+  }
+]
