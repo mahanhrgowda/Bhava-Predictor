@@ -18,7 +18,7 @@ def get_intent_model():
 
 model = get_intent_model()
 
-with open("plc_streamlit_tool/assets/bhava_chakra_rasa_map.json", encoding="utf-8") as f:
+with open("bhava_predictor/assets/bhava_chakra_rasa_map.json", encoding="utf-8") as f:
     bhava_data = json.load(f)
 
 bhava_meanings = [entry["meaning"] for entry in bhava_data]
